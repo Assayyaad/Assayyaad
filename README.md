@@ -7,7 +7,7 @@
 ![paths-manager](https://img.shields.io/badge/Discord%20bot-ToDiscoist-red)
 
 # Wanna contact me?
-[![twitter](https://img.shields.io/twitter/follow/nabil_alsaiad?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=shields_io)
+[![twitter](https://img.shields.io/twitter/follow/nabil_alsaiad?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=nabil_alsaiad)
 [![my discord](https://img.shields.io/badge/Nabil-blue?style=social&logo=discord)](https://discordapp.com/users/734365620543422555)
 
 [![saudign discord](https://img.shields.io/discord/962095121946521600?label=SaudiGN&style=social&logo=discord)](https://discord.gg/cp8XsStTCp)
