@@ -1,4 +1,4 @@
-# working at
+# Working at
 ![saudign](https://img.shields.io/badge/Admin-SaudiGN-purple)
 ![arabgamers](https://img.shields.io/badge/Founder-Arab%20gamers-sucess)
 
@@ -9,7 +9,7 @@
 ### ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white) packages
 [![paths-manager](https://img.shields.io/badge/paths%20manager-grey?logo=npm)](https://www.npmjs.com/package/paths-manager)
 
-# Wanna contact me?
+# Contact me?
 [![twitter](https://img.shields.io/twitter/follow/nabil_alsaiad?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=nabil_alsaiad)
 [![my discord](https://img.shields.io/badge/Nabil-blue?style=social&logo=discord)](https://discordapp.com/users/734365620543422555)
 
