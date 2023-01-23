@@ -9,4 +9,4 @@
 <!-- [![paths-manager](https://img.shields.io/badge/paths%20manager-grey?logo=npm)](https://www.npmjs.com/package/paths-manager) -->
 
 # Follow me (or contact me)
-[Find my links here](https://direct.me/nabil_alsaiad)
+Find my links at: https://links.nabilalsaiad.com
