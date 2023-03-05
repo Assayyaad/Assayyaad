@@ -1,42 +1,99 @@
+<div align="center">
+
+Operating systems
+
+![](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<br>
+
+Game (Designer + Programmer)
+
+![](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=100000)
+![](https://img.shields.io/badge/C%23-purple?logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/Visual%20studio-5C2D91?logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/Plastic%20SCM-orange?logo=plastic%20scm&logoColor=white)
+
+<br>
+
+Discord (server admin + bot developer)
+
+![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
+
+</div>
+
+--- 
+
 # My work
 
-I'm currently working on Discord servers and bots as well as tool to make developing discord bots easier.
+## Game dev
 
-> Game development related content will be added later on
+Coming not soon :(
 
-### Discord servers
+## Discord
+
+### Servers
 
 [![](https://dcbadge.vercel.app/api/server/saudign?style=flat)](https://discord.gg/saudign)
 [![](https://dcbadge.vercel.app/api/server/sPfG5RR6A4?style=flat)](https://discord.gg/sPfG5RR6A4)
-[![](https://dcbadge.vercel.app/api/server/Jfd6GbqMhw?style=flat)](https://discord.gg/Jfd6GbqMhw)
+<!-- [![](https://dcbadge.vercel.app/api/server/Jfd6GbqMhw?style=flat)](https://discord.gg/Jfd6GbqMhw) -->
 
-### Public discord bots
+### Public bots
 
 Coming soon ...
 
-### Tools
+### Bot tools
 
 [![](https://img.shields.io/badge/easybot-white?logo=npm)](https://www.npmjs.com/package/easybot)
-[![](https://img.shields.io/badge/paths%20manager-white?logo=npm)](https://www.npmjs.com/package/paths-manager) (Name might change)
+[![](https://img.shields.io/badge/paths%20manager_(name_will_change)-white?logo=npm)](https://www.npmjs.com/package/paths-manager)
 
 # Learning resources
 
-You can build discord bots with ease using Languages like JavaScript/TypeScript and Python, and since I'm using JavaScript/TypeScript then let me suggest you some cources to learn them from
+You can build discord bots with ease using Languages like JavaScript/TypeScript and Python, and since I'm using JavaScript/TypeScript then let me suggest you some cources to learn them from.
 
-### Codecademy
+I recommend starting with Solo learn then moving to codecademy.
 
-Codecademy is an online learning website focused on coding, with over 45 million users, created to teach programming in an engaging, effective way.
-> They've recently added "Professional certificates" to their Pro subscription
 
-- <a href="https://www.pntra.com/t/2-468138-294213-213588" target="_blank" rel="sponsored">Course: Learn TypeScript  with Codecademy</a><img src="//www.pntra.com/i/2-468138-294213-213588" height="1" width="1" border="0">
+<details open="open">
+<summary>Codecademy</summary>
 
-- <a href="https://www.pntra.com/t/2-468117-294213-213588" target="_blank" rel="sponsored">Course: Learn JavaScript with Codecademy</a><img src="//www.pntra.com/i/2-468117-294213-213588" height="1" width="1" border="0">
+<br>
+
+> Learning is only avilable on the website, but practicing is also avilable on the phone.
+> 
+> They've recently added "Professional certificates" to their Pro subscription.
+
+- <a href="https://www.pntra.com/t/2-468117-294213-213588" target="_blank" rel="sponsored">JavaScript</a>
+- <a href="https://www.pntra.com/t/2-468138-294213-213588" target="_blank" rel="sponsored">TypeScript</a>
+
+</details>
+
+<details open="open">
+<summary>Solo learn</summary>
+
+<br>
+
+> Learning is avilable on both the website and the phone.
+> 
+> Certificates of completion are included in the free version 
+
+- <a href="https://www.sololearn.com/learn/courses/javascript-introduction" target="_blank">JavaScript introduction</a>
+- <a href="https://www.sololearn.com/learn/courses/javascript-intermediate" target="_blank">JavaScript intermediate</a>
+
+</details>
 
 # Links and contacts page
 
 https://links.nabilalsaiad.com
 
------------------------------------
+---
+
+---
 
 # Other programming related profiles
 
