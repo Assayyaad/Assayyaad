@@ -49,7 +49,7 @@ Coming soon ...
 
 ### Bot tools
 
-[![](https://img.shields.io/badge/easybot-white?logo=npm)](https://www.npmjs.com/package/easybot)
+[![](https://img.shields.io/badge/halfbot-white?logo=npm)](https://www.npmjs.com/package/halfbot)
 [![](https://img.shields.io/badge/paths%20manager_(name_will_change)-white?logo=npm)](https://www.npmjs.com/package/paths-manager)
 
 # Learning resources
