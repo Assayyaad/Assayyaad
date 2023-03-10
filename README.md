@@ -67,7 +67,8 @@ I recommend starting with Solo learn then moving to codecademy.
 > Learning is only avilable on the website, but practicing is also avilable on the phone.
 > 
 > They've recently added "Professional certificates" to their Pro subscription.
-
+> 
+> The promotion code `PIDAY23` will start on 14 March until 20 March
 - <a href="https://www.pntra.com/t/2-468117-294213-213588" target="_blank" rel="sponsored">JavaScript</a>
 - <a href="https://www.pntra.com/t/2-468138-294213-213588" target="_blank" rel="sponsored">TypeScript</a>
 
