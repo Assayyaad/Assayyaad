@@ -31,7 +31,7 @@
 
 <div align="center" size="30px">
 
-[العربية](#README.md) | [English](#README.en.md)
+[العربية](https://github.com/Nabil-Alsaiad/Nabil-Alsaiad/blob/main/README.md) | [English](https://github.com/Nabil-Alsaiad/Nabil-Alsaiad/blob/main/README.en.md)
 
 </div>
 
