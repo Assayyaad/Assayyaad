@@ -29,9 +29,9 @@ Discord server admin + Discord bot developer
 
 # Translations
 
-<div align="center" size="30px">
+<div align="left">
 
-[العربية](https://github.com/Nabil-Alsaiad/Nabil-Alsaiad/blob/main/README.md) | [English](https://github.com/Nabil-Alsaiad/Nabil-Alsaiad/blob/main/README.en.md)
+[العربية](README.md) | [English](README.en.md)
 
 </div>
 

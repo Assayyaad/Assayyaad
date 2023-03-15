@@ -29,9 +29,9 @@
 
 # الترجمات
 
-<div align="center" size="30px">
+<div align="right">
 
-[العربية](https://github.com/Nabil-Alsaiad/Nabil-Alsaiad/blob/main/README.md) | [English](https://github.com/Nabil-Alsaiad/Nabil-Alsaiad/blob/main/README.en.md)
+[العربية](README.md) | [English](README.en.md)
 
 </div>
 
