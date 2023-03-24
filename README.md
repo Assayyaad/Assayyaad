@@ -81,8 +81,6 @@
 > التعليم متوفر على الموقع فقط, لكن المراجعة متوفرة على الجوال.
 >
 > لقد أضافوا حديثاً "شهادات إحترافية" إلى إشتراك Pro.
->
-> كود الخصم `PIDAY23` سيبدأ من 14 مارس وحتى 20 مارس
 
 -   <a href="https://www.pntra.com/t/2-468117-294213-213588" target="_blank" rel="sponsored">JavaScript</a>
 -   <a href="https://www.pntra.com/t/2-468138-294213-213588" target="_blank" rel="sponsored">TypeScript</a>
