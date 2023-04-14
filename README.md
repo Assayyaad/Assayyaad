@@ -7,14 +7,14 @@
 
 <br>
 
-مصمم ألعاب + مبرمج ألعاب
+برمجة ألعاب
 
 ![](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=100000)
 ![](https://img.shields.io/badge/C%23-purple?logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20studio-5C2D91?logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/Plastic%20SCM-orange?logo=plastic%20scm&logoColor=white)
 
-أدمن سيرفرات دسكورد + مبرمج بوتات دسكورد
+برمجة بوتات دسكورد
 
 ![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
@@ -53,8 +53,7 @@
 
 [![](https://dcbadge.vercel.app/api/server/saudign?style=flat)](https://discord.gg/saudign)
 [![](https://dcbadge.vercel.app/api/server/sPfG5RR6A4?style=flat)](https://discord.gg/sPfG5RR6A4)
-
-<!-- [![](https://dcbadge.vercel.app/api/server/Jfd6GbqMhw?style=flat)](https://discord.gg/Jfd6GbqMhw) -->
+[![](https://dcbadge.vercel.app/api/server/Jfd6GbqMhw?style=flat)](https://discord.gg/Jfd6GbqMhw)
 
 2. ### بوتات عامة
 
@@ -62,8 +61,12 @@
 
 3. ### أدوات بوتات
 
-[![](https://img.shields.io/badge/halfbot-white?logo=npm)](https://www.npmjs.com/package/halfbot)
-[![](<https://img.shields.io/badge/paths%20manager_(name_will_change)-white?logo=npm>)](https://www.npmjs.com/package/paths-manager)
+
+[![](https://img.shields.io/badge/halfbot-white?logo=GitHub&logoColor=black)](https://github.com/DisQada/halfbot)
+[![](https://img.shields.io/badge/pathfinder-white?logo=GitHub&logoColor=black)](https://github.com/DisQada/pathfinder)
+
+[![](https://img.shields.io/badge/halfbot-white?logo=npm)](https://www.npmjs.com/package/@disqada/halfbot)
+[![](https://img.shields.io/badge/pathfinder-white?logo=npm)](https://www.npmjs.com/package/@disqada/pathfinder)
 
 <br>
 
@@ -78,9 +81,8 @@
 
 <br>
 
-> التعليم متوفر على الموقع فقط, لكن المراجعة متوفرة على الجوال.
->
-> لقد أضافوا حديثاً "شهادات إحترافية" إلى إشتراك Pro.
+التعليم متوفر على الموقع فقط, لكن المراجعة متوفرة على الجوال.
+لقد أضافوا حديثاً "شهادات إحترافية" إلى إشتراك Pro.
 
 -   <a href="https://www.pntra.com/t/2-468117-294213-213588" target="_blank" rel="sponsored">JavaScript</a>
 -   <a href="https://www.pntra.com/t/2-468138-294213-213588" target="_blank" rel="sponsored">TypeScript</a>
@@ -92,9 +94,8 @@
 
 <br>
 
-> التعليم متوفر على الموقع والجوال.
->
-> شهادات الإكمال متضمنة في النسخة المجانية
+التعليم متوفر على الموقع والجوال.
+شهادات الإكمال متضمنة في النسخة المجانية.
 
 -   <a href="https://www.sololearn.com/learn/courses/javascript-introduction" target="_blank">JavaScript introduction</a>
 -   <a href="https://www.sololearn.com/learn/courses/javascript-intermediate" target="_blank">JavaScript intermediate</a>
@@ -111,6 +112,7 @@ https://links.nabilalsaiad.com
 
 # بروفايلات برمجة
 
+[![](https://img.shields.io/badge/github-black?logo=github&logoColor=white)](https://github.com/Nabil-Alsaiad)
 [![](https://img.shields.io/badge/npm-black?logo=npm&logoColor=white)](https://www.npmjs.com/~nabil_alsaiad)
 [![](https://img.shields.io/badge/Solo%20learn-black?logo=sololearn&logoColor=white)](https://www.sololearn.com/profile/17032869)
 [![](https://img.shields.io/badge/Free%20code%20camp-black?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Nabil_Alsaiad)
@@ -119,6 +121,7 @@ https://links.nabilalsaiad.com
 [![](https://img.shields.io/badge/Hacker%20rank-black?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Nabil_Alsaiad)
 [![](https://img.shields.io/badge/Codingame-black?logo=codingame&logoColor=white)](https://www.codingame.com/profile/c76e910d186faa93e6d05766fe135ba36322535)
 
+[![](https://img.shields.io/badge/github-white?logo=github&logoColor=black)](https://github.com/Nabil-Alsaiad)
 [![](https://img.shields.io/badge/npm-white?logo=npm&logoColor=black)](https://www.npmjs.com/~nabil_alsaiad)
 [![](https://img.shields.io/badge/Solo%20learn-white?logo=sololearn&logoColor=black)](https://www.sololearn.com/profile/17032869)
 [![](https://img.shields.io/badge/Free%20code%20camp-white?logo=freecodecamp&logoColor=black)](https://www.freecodecamp.org/Nabil_Alsaiad)
