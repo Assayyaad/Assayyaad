@@ -23,6 +23,12 @@
 ![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 
+  إحصائيات
+
+![](https://github-readme-stats.vercel.app/api?username=Nabil-Alsaiad&theme=blue-green)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Alsaiad&theme=blue-green)
+
 </div>
 
 ---
