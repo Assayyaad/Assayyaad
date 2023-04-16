@@ -23,11 +23,11 @@
 ![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 
-  إحصائيات
+إحصائيات
 
-![](https://github-readme-stats.vercel.app/api?username=Nabil-Alsaiad&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nabil-Alsaiad&include_all_commits=true&count_private=true&hide_rank&show_icons=true&theme=prussian&locale=ar)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Alsaiad&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Alsaiad&theme=prussian&langs_count=10&layout=compact&locale=ar)
 
 </div>
 
@@ -58,8 +58,10 @@
 1. ### سيرفرات
 
 [![](https://dcbadge.vercel.app/api/server/saudign?style=flat)](https://discord.gg/saudign)
+[![](https://dcbadge.vercel.app/api/server/h5AN45pwrr?style=flat)](https://discord.gg/h5AN45pwrr)
 [![](https://dcbadge.vercel.app/api/server/sPfG5RR6A4?style=flat)](https://discord.gg/sPfG5RR6A4)
 [![](https://dcbadge.vercel.app/api/server/Jfd6GbqMhw?style=flat)](https://discord.gg/Jfd6GbqMhw)
+[![](https://dcbadge.vercel.app/api/server/x4p3aDRd9R?style=flat)](https://discord.gg/x4p3aDRd9R)
 
 2. ### بوتات عامة
 
@@ -67,12 +69,8 @@
 
 3. ### أدوات بوتات
 
-
-[![](https://img.shields.io/badge/halfbot-white?logo=GitHub&logoColor=black)](https://github.com/DisQada/halfbot)
-[![](https://img.shields.io/badge/pathfinder-white?logo=GitHub&logoColor=black)](https://github.com/DisQada/pathfinder)
-
-[![](https://img.shields.io/badge/halfbot-white?logo=npm)](https://www.npmjs.com/package/@disqada/halfbot)
-[![](https://img.shields.io/badge/pathfinder-white?logo=npm)](https://www.npmjs.com/package/@disqada/pathfinder)
+[![halfbot](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=halfbot&show_owner=true&theme=prussian)](https://github.com/DisQada/halfbot)
+[![pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=DisQada&repo=pathfinder&show_owner=true&theme=prussian)](https://github.com/DisQada/pathfinder)
 
 <br>
 
@@ -80,7 +78,7 @@
 
 يمكنك بناء بوتات دسكورد بسهولة بإستخدام لغات مثل JavaScript/TypeScript وPython، وبما أنني أستخدم JavaScript/TypeScript فدعني أرشح لك بعض الدورات لتعلمهم منها.
 
-أنا أنصح بالبدء بSolo learn ثم الإنتقال إلى Codecademy.
+أنا أنصح بالبدء بSololearn ثم الإنتقال إلى Codecademy.
 
 <details open="open">
 <summary>Codecademy</summary>
@@ -96,7 +94,7 @@
 </details>
 
 <details open="open">
-<summary>Solo learn</summary>
+<summary>Sololearn</summary>
 
 <br>
 
