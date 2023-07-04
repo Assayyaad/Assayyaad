@@ -1,56 +1,56 @@
-# Translations
+# الترجمات
 
-[Arabic | العربية](README.ar.md)
+[الإنجليزية | English](README.md)
 
-# Table of contents
+# جدول المحتويات
 
-- [Translations](#translations)
-- [Table of contents](#table-of-contents)
-- [About me](#about-me)
-  - [Some statistics](#some-statistics)
-- [What I use](#what-i-use)
-  - [Operating systems](#operating-systems)
-  - [Game Programming](#game-programming)
-  - [Bot Programming](#bot-programming)
-- [My work](#my-work)
-  - [**Games**](#games)
-  - [**Bots**](#bots)
-    - [Frameworks and libraries](#frameworks-and-libraries)
-  - [**Teaching**](#teaching)
-- [Sharing knowledge](#sharing-knowledge)
-- [See also](#see-also)
+- [الترجمات](#الترجمات)
+- [جدول المحتويات](#جدول-المحتويات)
+- [عني](#عني)
+  - [بعض الإحصائيات](#بعض-الإحصائيات)
+- [ما أستخدمه](#ما-أستخدمه)
+  - [أنظمة التشغيل](#أنظمة-التشغيل)
+  - [برمجة الألعاب](#برمجة-الألعاب)
+  - [برمجة الروبوتات](#برمجة-الروبوتات)
+- [أعمالي](#أعمالي)
+  - [**ألعاب**](#ألعاب)
+  - [**البوتات**](#البوتات)
+    - [الأطر والمكتبات](#الأطر-والمكتبات)
+  - [**تعليم**](#تعليم)
+- [مشاركة المعرفة](#مشاركة-المعرفة)
+- [أنظر أيضاً](#أنظر-أيضاً)
 
 ---
 
-# About me
+# عني
 
-A skilled programmer with over 4 years of experience.
+مبرمج ماهر بخبرة تزيد عن 4 سنوات.
 
-I'm specialized in Game Programming using Unity engine.
+أنا متخصص في برمجة الألعاب باستخدام محرك Unity.
 
-My work mostly focuses on building tools and complex systems.
+يركز عملي في الغالب على أدوات البناء والأنظمة المعقدة.
 
-## Some statistics
+## بعض الإحصائيات
 
-![stats](https://github-readme-stats.vercel.app/api?username=Nabil-Alsaiad&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true&theme=prussian&locale=en)
+![stats](https://github-readme-stats.vercel.app/api?username=Nabil-Alsaiad&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true&theme=prussian&locale=ar)
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Nabil_Alsaiad&theme=prussian&layout=compact&locale=en)
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Nabil_Alsaiad&theme=prussian&layout=compact&locale=ar)
 
-# What I use
+# ما أستخدمه
 
-## Operating systems
+## أنظمة التشغيل
 
 ![windows](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## Game Programming
+## برمجة الألعاب
 
 ![unity](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=100000)
 ![c#](https://img.shields.io/badge/C%23-purple?logo=csharp&logoColor=white)
 ![visual studio](https://img.shields.io/badge/Visual%20studio-5C2D91?logo=visual%20studio&logoColor=white)
 ![plastic scm](https://img.shields.io/badge/Plastic%20SCM-orange?logo=plastic%20scm&logoColor=white)
 
-## Bot Programming
+## برمجة الروبوتات
 
 ![node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
@@ -58,33 +58,33 @@ My work mostly focuses on building tools and complex systems.
 ![vs code](https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 
-# My work
+# أعمالي
 
-## **Games**
+## **ألعاب**
 
-Some of the games I made are published on my [Itch][itch] account
+بعض الألعاب التي صنعتها منشورة على حسابي [Itch] [itch]
 
-## **Bots**
+## **البوتات**
 
-### Frameworks and libraries
+### الأطر والمكتبات
 
-- Discord: All my work in this category can be found under the brand [DisQada][disqada]
+- الخلاف: يمكن العثور على جميع أعمالي في هذه الفئة تحت العلامة التجارية [DisQada] [disqada]
 
-## **Teaching**
+## **تعليم**
 
-Working on it ...
+أعمل عليه ...
 
-# Sharing knowledge
+# مشاركة المعرفة
 
-This is a file where you can find some [Learning resources](resources.md) to help you gain the required skills in order to work in what I work with
+هذا ملف حيث يمكنك العثور على بعض [مصادر التعلم](resources.md) لمساعدتك على اكتساب المهارات المطلوبة للعمل في ما أعمل به
 
-> Note: These resources are what I personally used
+> ملاحظة: هذه الموارد هي ما استخدمته شخصياً
 
-# See also
+# أنظر أيضاً
 
-Contact information and other accounts can be found in my [links page](https://links.nabilalsaiad.com).
+يمكن العثور على معلومات الاتصال والحسابات الأخرى في [صفحة الروابط](https://links.nabilalsaiad.com).
 
-And here are some other programming profiles:
+وهذه بعض بروفايلات البرمجة الأخرى:
 
 [![waka time](https://img.shields.io/badge/Waka%20time-black?logo=wakatime&logoColor=white)](https://wakatime.com/@Nabil_Alsaiad)
 [![github](https://img.shields.io/badge/github-black?logo=github&logoColor=white)](https://github.com/Nabil-Alsaiad)
