@@ -1,3 +1,15 @@
 {
-	"cSpell.words": ["halfbot"]
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "editor.formatOnType": true,
+        "editor.formatOnSaveMode": "file"
+    },
+
+    "markdown.occurrencesHighlight.enabled": true,
+    "markdown.extension.tableFormatter.normalizeIndentation": true,
+
+    "markdownlint.config": {},
+    "markdownlint.run": "onType"
 }
