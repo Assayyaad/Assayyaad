@@ -2,24 +2,6 @@
 
 [Arabic | العربية](README.ar.md)
 
-# Table of contents
-
-- [Translations](#translations)
-- [Table of contents](#table-of-contents)
-- [About me](#about-me)
-  - [Some statistics](#some-statistics)
-- [What I use](#what-i-use)
-  - [Operating systems](#operating-systems)
-  - [Game Programming](#game-programming)
-  - [Bot Programming](#bot-programming)
-- [My work](#my-work)
-  - [**Games**](#games)
-  - [**Bots**](#bots)
-    - [Frameworks and libraries](#frameworks-and-libraries)
-  - [**Teaching**](#teaching)
-- [Sharing knowledge](#sharing-knowledge)
-- [See also](#see-also)
-
 ---
 
 # About me

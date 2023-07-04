@@ -2,23 +2,6 @@
 
 [Arabic | العربية](resources.ar.md)
 
-# Table of contents
-
-- [Translations](#translations)
-- [Table of contents](#table-of-contents)
-- [Game programming](#game-programming)
-  - [Unity](#unity)
-- [Bot programming](#bot-programming)
-  - [Node.js](#nodejs)
-  - [DisQada -\> halfbot](#disqada---halfbot)
-  - [Discord.js](#discordjs)
-- [Programming languages](#programming-languages)
-  - [Courses](#courses)
-    - [**1. Freecodecamp**](#1-freecodecamp)
-    - [**2. Codecademy**](#2-codecademy)
-    - [**3. Solo learn**](#3-solo-learn)
-    - [**4. Exercism**](#4-exercism)
-
 <br>
 
 ---

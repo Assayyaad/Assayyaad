@@ -2,23 +2,6 @@
 
 [الإنجليزية | English](resources.md)
 
-# جدول المحتويات
-
-- [الترجمات](#الترجمات)
-- [جدول المحتويات](#جدول-المحتويات)
-- [برمجة الألعاب](#برمجة-الألعاب)
-  - [Unity](#unity)
-- [برمجة البوتات](#برمجة-البوتات)
-  - [Node.js](#nodejs)
-  - [DisQada -\> halfbot](#disqada---halfbot)
-  - [Discord.js](#discordjs)
-- [لغات البرمجة](#لغات-البرمجة)
-  - [الدورات](#الدورات)
-    - [**1. Freecodecamp**](#1-freecodecamp)
-    - [**2. Codecademy**](#2-codecademy)
-    - [**3. Solo learn**](#3-solo-learn)
-    - [**4. Exercism**](#4-exercism)
-
 <br>
 
 ---
