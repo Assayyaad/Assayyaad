@@ -2,95 +2,106 @@
 
 [Arabic | العربية](README.ar.md)
 
----
+# Statistics
 
-# About me
+[![wakatime](https://wakatime.com/badge/user/0759f028-2b82-4722-ae30-bb85025bb799.svg)](https://wakatime.com/@Nabil_Alsaiad)
 
-A skilled programmer with over 4 years of experience.
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Nabil_Alsaiad&theme=prussian&layout=compact&locale=en)](https://wakatime.com/@Nabil_Alsaiad)
 
-I'm specialized in Game Programming using Unity engine.
+[![stats](https://github-readme-stats.vercel.app/api?username=Nabil-Alsaiad&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true&theme=prussian&locale=en)](https://github.com/Nabil-Alsaiad?tab=repositories)
 
-My work mostly focuses on building tools and complex systems.
+# Fields of Work
 
-## Some statistics
+## Game Development
 
-![stats](https://github-readme-stats.vercel.app/api?username=Nabil-Alsaiad&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true&theme=prussian&locale=en)
+- Game Design
+  - Gameplay design
+  - Combat design
+- Game Programming
+  - Complex systems programming
+  - Gameplay programming
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Nabil_Alsaiad&theme=prussian&layout=compact&locale=en)
+## Web Development
 
-# What I use
+- Back-end programming
+- Tools & Frameworks Programming
+
+## Management
+
+- Production Management
+  - Project Management
+- Community Management
+- Event Organisation
+
+# My Tools
 
 ## Operating systems
 
-![windows](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
-![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+[![windows](https://img.shields.io/badge/windows-%230078D6.svg?logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
+[![android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/)
 
-## Game Programming
+## Game Development
 
-![unity](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=100000)
-![c#](https://img.shields.io/badge/C%23-purple?logo=csharp&logoColor=white)
-![visual studio](https://img.shields.io/badge/Visual%20studio-5C2D91?logo=visual%20studio&logoColor=white)
-![plastic scm](https://img.shields.io/badge/Plastic%20SCM-orange?logo=plastic%20scm&logoColor=white)
+### Game Engines
 
-## Bot Programming
+[![bevy](https://img.shields.io/badge/Bevy-232326?logo=bevy&logoColor=white)](https://bevyengine.org/)
 
-![node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![vs code](https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
+### Game Stores
 
-# My work
+[![itch.io](https://img.shields.io/badge/itch.io-ff2449?logo=itch.io&logoColor=white)](https://itch.io/)
 
-## **Games**
+## Programming
 
-Some of the games I made are published on my [Itch][itch] account
+### Programming Languages
 
-## **Bots**
+[![c#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp/)
+[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/javascript/)
+[![typescript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![rust](https://img.shields.io/badge/Rust-B7410E?logo=rust&logoColor=white)](https://rust-lang.org/)
 
-### Frameworks and libraries
+### Markup Languages
 
-- Discord: All my work in this category can be found under the brand [DisQada][disqada]
+[![markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](https://markdownguide.org/)
 
-## **Teaching**
+### Data Serialisation Languages
 
-Working on it ...
+[![json](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](https://json.org/)
+[![yaml](https://img.shields.io/badge/YAML-ff0000?logo=yaml&logoColor=white)](https://yaml.org/)
+[![dotenv](https://img.shields.io/badge/.env-ecd53f?logo=dotenv&logoColor=black)](https://dotenv.org/)
 
-# Sharing knowledge
+### Integrated Development Environments (IDEs)
 
-This is a file where you can find some [Learning resources](resources.md) to help you gain the required skills in order to work in what I work with
+[![vs code](https://img.shields.io/badge/VSCode-007ACC?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![visual studio](https://img.shields.io/badge/Visual%20studio-5C2D91?logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
 
-> Note: These resources are what I personally used
+### Application Programming Interfaces (APIs)
 
-# See also
+[![discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/developers/docs/intro/)
+[![itch.io](https://img.shields.io/badge/itch.io-ff2449?logo=itch.io&logoColor=white)](https://itch.io/docs/api/overview/)
+[![todoist](https://img.shields.io/badge/Todoist-de483a?logo=todoist&logoColor=white)](https://developer.todoist.com/rest/v2/#overview/)
+[![ko-fi](https://img.shields.io/badge/Ko--fi-00b9fe?logo=kofi&logoColor=white)](https://ko-fi.com/manage/webhooks?src=sidemenu/)
+[![patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://docs.patreon.com/#introduction/)
 
-Contact information and other accounts can be found in my [links page](https://links.nabilalsaiad.com).
+## Other
 
-And here are some other programming profiles:
+[![node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://npmjs.com/)
+[![crates](https://img.shields.io/badge/crates-dea584?logo=crates&logoColor=white)](https://crates.io/)
 
-[![waka time](https://img.shields.io/badge/Waka%20time-black?logo=wakatime&logoColor=white)](https://wakatime.com/@Nabil_Alsaiad)
-[![github](https://img.shields.io/badge/github-black?logo=github&logoColor=white)](https://github.com/Nabil-Alsaiad)
-[![npm](https://img.shields.io/badge/npm-black?logo=npm&logoColor=white)](https://www.npmjs.com/~nabil_alsaiad)
-[![solo learn](https://img.shields.io/badge/Solo%20learn-black?logo=sololearn&logoColor=white)](https://www.sololearn.com/profile/17032869)
-[![free code camp](https://img.shields.io/badge/Free%20code%20camp-black?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Nabil_Alsaiad)
-[![codecademy](https://img.shields.io/badge/Codecademy-black?logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/Nabil_Alsaiad)
-[![exercism](https://img.shields.io/badge/Exercism-black?logo=exercism&logoColor=white)](https://exercism.org/profiles/Nabil-Alsaiad)
-[![hacker rank](https://img.shields.io/badge/Hacker%20rank-black?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Nabil_Alsaiad)
-[![codingame](https://img.shields.io/badge/Codingame-black?logo=codingame&logoColor=white)](https://www.codingame.com/profile/c76e910d186faa93e6d05766fe135ba36322535)
-[![leet code](https://img.shields.io/badge/Leetcode-black?logo=Leetcode&logoColor=white)](https://leetcode.com/Nabil-Alsaiad)
-[![coder hub](https://img.shields.io/badge/Coder%20hub-black?logo=coderhub&logoColor=white)](https://profile.satr.codes/nabil_alsaiad/public)
+# Programming Profiles
 
-[![waka time](https://img.shields.io/badge/Waka%20time-white?logo=wakatime&logoColor=black)](https://wakatime.com/@Nabil_Alsaiad)
-[![github](https://img.shields.io/badge/github-white?logo=github&logoColor=black)](https://github.com/Nabil-Alsaiad)
-[![npm](https://img.shields.io/badge/npm-white?logo=npm&logoColor=black)](https://www.npmjs.com/~nabil_alsaiad)
-[![solo learn](https://img.shields.io/badge/Solo%20learn-white?logo=sololearn&logoColor=black)](https://www.sololearn.com/profile/17032869)
-[![free code camp](https://img.shields.io/badge/Free%20code%20camp-white?logo=freecodecamp&logoColor=black)](https://www.freecodecamp.org/Nabil_Alsaiad)
-[![codecademy](https://img.shields.io/badge/Codecademy-white?logo=codecademy&logoColor=black)](https://www.codecademy.com/profiles/Nabil_Alsaiad)
-[![exercism](https://img.shields.io/badge/Exercism-white?logo=exercism&logoColor=black)](https://exercism.org/profiles/Nabil-Alsaiad)
-[![hacker rank](https://img.shields.io/badge/Hacker%20rank-white?logo=hackerrank&logoColor=black)](https://www.hackerrank.com/Nabil_Alsaiad)
-[![codingame](https://img.shields.io/badge/Codingame-white?logo=codingame&logoColor=black)](https://www.codingame.com/profile/c76e910d186faa93e6d05766fe135ba36322535)
-[![leet code](https://img.shields.io/badge/Leetcode-white?logo=Leetcode&logoColor=black)](https://leetcode.com/Nabil-Alsaiad)
-[![coder hub](https://img.shields.io/badge/Coder%20hub-white?logo=coderhub&logoColor=black)](https://profile.satr.codes/nabil_alsaiad/public)
+[![waka time](https://img.shields.io/badge/Waka%20time-000000?logo=wakatime&logoColor=white)](https://wakatime.com/@Nabil_Alsaiad)
+[![github](https://img.shields.io/badge/github-181717?logo=github&logoColor=white)](https://github.com/Nabil-Alsaiad)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://npmjs.com/~nabil_alsaiad)
+[![solo learn](https://img.shields.io/badge/Solo%20learn-5BC2AE?logo=sololearn&logoColor=white)](https://sololearn.com/profile/17032869)
+[![free code camp](https://img.shields.io/badge/Free%20code%20camp-006400?logo=freecodecamp&logoColor=white)](https://freecodecamp.org/Nabil_Alsaiad)
+[![codecademy](https://img.shields.io/badge/Codecademy-1F4056?logo=codecademy&logoColor=white)](https://codecademy.com/profiles/Nabil_Alsaiad)
+[![exercism](https://img.shields.io/badge/Exercism-D4A017?logo=exercism&logoColor=white)](https://exercism.org/profiles/Nabil-Alsaiad)
+[![hacker rank](https://img.shields.io/badge/Hacker%20rank-2EC866?logo=hackerrank&logoColor=white)](https://hackerrank.com/Nabil_Alsaiad)
+[![codingame](https://img.shields.io/badge/Codingame-7ED1F2?logo=codingame&logoColor=black)](https://codingame.com/profile/c76e910d186faa93e6d05766fe135ba36322535)
+[![leet code](https://img.shields.io/badge/Leetcode-FFA116?logo=Leetcode&logoColor=white)](https://leetcode.com/Nabil-Alsaiad)
+[![coder hub](https://img.shields.io/badge/Coder%20hub-000000?logo=coderhub&logoColor=white)](https://profile.satr.codes/nabil_alsaiad/public)
 
-[disqada]: https://github.com/DisQada
-[itch]: https://nabil-alsaiad.itch.io
+# See Also
+
+Contact information and other accounts can be found in my [links page](https://links.nabilalsaiad.com)
