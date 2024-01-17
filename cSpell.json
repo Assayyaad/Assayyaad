@@ -1,24 +1,14 @@
 {
-    "validateDirectives": true,
-    "caseSensitive": true,
-    "language": "en-GB,ar",
-    "files": [
-        "**/*.md"
-    ],
-    "words": [
-        "codecademy",
-        "codingame",
-        "DisQada",
-        "exercism",
-        "Freecodecamp",
-        "halfbot",
-        "leet",
-        "scm",
-        "wakatime",
-        "البوتات",
-        "بروفايلات",
-        "لبوتات",
-        "وآيفون",
-        "وأندرويد"
-    ]
+  "caseSensitive": true,
+  "useGitignore": true,
+  "language": "en-GB,ar",
+  "files": ["**/*.md"],
+  "words": [
+    "codecademy",
+    "todoist",
+    "wakatime",
+    "exercism",
+    "codingame",
+    "leet"
+  ]
 }
