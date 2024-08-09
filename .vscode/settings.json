@@ -3,30 +3,12 @@
   "editor.formatOnSaveMode": "file",
   "editor.formatOnSave": true,
   "editor.trimAutoWhitespace": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll": "explicit",
-    "source.organizeImports": "explicit"
-  },
+
+  "files.insertFinalNewline": true,
+  "files.eol": "\n",
 
   "[markdown]": {
-    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
-    "editor.formatOnSaveMode": "file",
-    "editor.formatOnSave": true,
-    "editor.trimAutoWhitespace": true,
-
-    "editor.unicodeHighlight.ambiguousCharacters": false,
-    "editor.unicodeHighlight.invisibleCharacters": false,
-    "diffEditor.ignoreTrimWhitespace": false,
-    "editor.wordWrap": "off",
-    "editor.quickSuggestions": {
-      "comments": "off",
-      "strings": "off",
-      "other": "off"
-    },
-
-    "cSpell.fixSpellingWithRenameProvider": true,
-    "cSpell.advanced.feature.useReferenceProviderWithRename": true,
-    "cSpell.advanced.feature.useReferenceProviderRemove": "/^#+\\s/"
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
   },
   "markdown.replaceSmartQuotes": true
 }

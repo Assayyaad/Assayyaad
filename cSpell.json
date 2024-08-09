@@ -1,14 +1,17 @@
 {
   "caseSensitive": true,
   "useGitignore": true,
-  "language": "en-GB,ar",
-  "files": ["**/*.md"],
+  "language": "en,ar",
+  "files": [
+    "**/*.md"
+  ],
   "words": [
-    "codecademy",
+    "gamejolt",
+    "gdscript",
+    "godot",
+    "odin",
+    "patreon",
     "todoist",
-    "wakatime",
-    "exercism",
-    "codingame",
-    "leet"
+    "wakatime"
   ]
 }
