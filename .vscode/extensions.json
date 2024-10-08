@@ -1,15 +1,10 @@
 {
   "recommendations": [
-    "streetsidesoftware.code-spell-checker-arabic",
-    "streetsidesoftware.code-spell-checker",
-    "visualstudioexptteam.vscodeintellicode",
+    "goessner.mdmath",
+    "yzane.markdown-pdf",
     "docsmsft.docs-markdown",
     "yzhang.markdown-all-in-one",
-    "yzane.markdown-pdf",
     "mdickin.markdown-shortcuts",
-    "goessner.mdmath",
     "christian-kohler.path-intellisense",
-    "esbenp.prettier-vscode",
-    "wakatime.vscode-wakatime"
   ]
 }

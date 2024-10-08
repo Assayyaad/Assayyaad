@@ -1,14 +1,15 @@
 {
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "yzhang.markdown-all-in-one",
   "editor.formatOnSaveMode": "file",
   "editor.formatOnSave": true,
   "editor.trimAutoWhitespace": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
 
   "files.insertFinalNewline": true,
   "files.eol": "\n",
 
-  "[markdown]": {
-    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
-  },
-  "markdown.replaceSmartQuotes": true
+  "markdown.replaceSmartQuotes": true,
+  "markdown.occurrencesHighlight.enabled": true,
+  "markdown.extension.tableFormatter.normalizeIndentation": true
 }
