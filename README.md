@@ -1,10 +1,7 @@
 <div align="right">
 
-# يجري الإنتقال إلى [GitLab](https://gitlab.com/Assayyaad)
-
-معلومات الاتصال والحسابات الشخصية موجودة في [صفحة الروابط](https://links.assayyaad.pro)
-
 # إحصائيات
+
 ## Wakatime
 
 [![wakatime](https://wakatime.com/badge/user/0759f028-2b82-4722-ae30-bb85025bb799.svg)](https://wakatime.com/@Assayyaad)
